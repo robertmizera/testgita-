@@ -4,6 +4,7 @@
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+<<<<<<< HEAD
 =======
   public void logowanie{} {
      System.out.println{"Podaj nazwę użytkownika"};
@@ -20,3 +21,14 @@ public void logowanieGoogle{} {
 
 
 >>>>>>> klient101
+=======
+
+
+ public void logowanie() {
+        System.out.println("Podaj nazwę Microsoft");
+        System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
+
+
+
